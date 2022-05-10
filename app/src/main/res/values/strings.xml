@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="button">Button</string>
+    <string name="discount">Discount(%)</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+    <string name="no_svs">No SVS</string>
+    <string name="svs">SVS</string>
+    <string name="no_gst">No GST</string>
+    <string name="gst">GST</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="reset">Reset</string>
+    <string name="split">Split</string>
+    <string name="total_bill">Total Bill: $</string>
+    <string name="each_pays">Each pays: $</string>
+    <string name="error1">*Please enter a value</string>
+    <string name="error2">*Please enter a value and/or do not exceed 100</string>
+    <string name="cashDisplay">\ in cash\</string>
+    <string name="paynowDisplay">\ via PayNow to 912345678\</string>
+</resources>
